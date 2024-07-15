@@ -35,6 +35,7 @@
 	}
 </script>
 <center><input type="button" class="button" style="align:right" name="imprimir" value="Imprimir" onclick="imprime()" />
+<input type="button" class="button" style="align:right" name="voltar" value="voltar" onclick="window.history.back()" />
 <br />
 <img align="center" src="img/cabecalhofaf.png"/></center>
 <form class="faf">

@@ -43,6 +43,7 @@
 		  <li><a href="consultarfaf.php">Imprimir FAF</a></li>
 		  <li><a href="funerarias.php">Cadastrar Funerárias</a></li>
 		  <li><a href="consultarfunerarias.php">Consultar Funerárias</a></li>
+		  <li><a href="contato.php">Contato</a></li>
 		  <li><a class="button" href="logout.php">Sair</a></li>
 		</ul>
 	  </div>
